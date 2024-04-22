@@ -55,6 +55,14 @@ GET / HTTP/1.1
 Host: example.com
 ```
 ### output:
+![image](https://github.com/Lakshmipriya2005/InformationGathering/assets/115525361/01881ec4-7aa6-4811-b8a8-85fa508bc207)
+
+### Whatweb:
+![image](https://github.com/Lakshmipriya2005/InformationGathering/assets/115525361/d971e005-4688-4817-b1ce-89b66575f63d)
+
+###Traceout:
+![Uploading image.png…]()
+
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
