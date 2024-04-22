@@ -61,7 +61,9 @@ Host: example.com
 ![image](https://github.com/Lakshmipriya2005/InformationGathering/assets/115525361/d971e005-4688-4817-b1ce-89b66575f63d)
 
 ###Traceout:
-![Uploading image.png…]()
+![image](https://github.com/Lakshmipriya2005/InformationGathering/assets/115525361/53b8ffb4-4940-4ff6-a336-2024e31640c3)
+
+
 
 
 ## RESULT:
