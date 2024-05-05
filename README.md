@@ -1,5 +1,5 @@
 # EXP.NO:02
-# DATE:
+# DATE:20.02.2024
 
 # InformationGathering
 Information Gathering Techiques
